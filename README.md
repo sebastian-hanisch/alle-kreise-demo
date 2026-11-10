@@ -9,7 +9,7 @@ Nachbarn: `scc-demo` (Graphen und Netzwerke) zerlegt Graphen in starke Zusammenh
 
 ## Warum dieses Problem
 
-Wer einen widersprüchlichen Plan reparieren soll, fragt nach dem einen Zeugen aus Stück 1 sofort weiter: Gibt es noch mehr Kreise, und wie viele? Die Zahl der Kreise ist erstaunlich groß und springt von Plan zu Plan; schon ein einziger Widerspruch kann Hunderte Kreise erzeugen. Darum braucht die Aufzählung ein Budget, und darum lohnt die Frage, ob eine einzige Beziehung fast alle Kreise trägt.
+Wer einen widersprüchlichen Plan reparieren soll, fragt nach dem einen Zeugen aus Stück 1 sofort weiter: Gibt es noch mehr Kreise, und wie viele? Die Zahl der Kreise ist erstaunlich groß und springt von Plan zu Plan; schon ein einziger Widerspruch kann Hunderte Kreise erzeugen. Darum braucht die Aufzählung ein Budget, und darum lohnt die Frage, ob eine einzige Beziehung fast alle Kreise erklärt.
 
 ## Befunde und Korrekturen gegenüber dem Plan
 
